@@ -1,4 +1,4 @@
- public class interview {
+ public class DAY1 {
    
         // find max amd min element 
 
