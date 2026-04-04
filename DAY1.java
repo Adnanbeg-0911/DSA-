@@ -140,8 +140,6 @@ public  static void main(String[] args) {
 
 
 
-
-
 // rotate the array
 public static void rotate(int [] arr) {
     
